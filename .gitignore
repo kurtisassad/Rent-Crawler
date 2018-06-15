@@ -1,0 +1,10 @@
+__pycache__/
+*.json
+*.jsonl
+spiders/__pycache__/
+**/*.pyc
+**/*.spec
+api_key.txt
+__init__.py
+test.py
+spiders/kijiji.py
